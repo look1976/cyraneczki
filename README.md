@@ -8,7 +8,7 @@
 
 ### Koszt instalacji dla każdego domu będzie zbliżony do tego z ulotki t.j. 399 PLN + 99 PLN za aktywację usługi
 1. Zalety: najniższe możliwe koszty, brak ingerencji w drogę i konieczności jej rozkopania, estetyka ulicy niewiele gorsza niż teraz
-2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania
+2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania; trochę chałupnicze/amatorskie podejście do tematu :-)
 
 ## Wersja ze światłowodem na słupach
 - budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
@@ -19,7 +19,7 @@
 
 ### Koszt 1mb - 59 PLN brutto; przy uwzględnieniu długości ulicy (~273m) kwota całkowita ~16000 PLN brutto
 ### Przy 10 chętnych to ~1600 PLN/za dom.
-1. Zalety: znacznie niższe koszty, brak ingerencji w drogę i konieczności jej rozkopania, możemy na słupach zainstalować oświetlenie ulicy (!)
+1. Zalety: akceptowalne koszty, metoda podłączenia zgodna z przyjętymi standardami, brak ingerencji w drogę i konieczności jej rozkopania, możemy na słupach zainstalować oświetlenie ulicy (!)
 2. Wady: trochę mniejsza estetyka ulicy (ale to też mocno zależy od rodzaju słupów)
 
 W tej wersji możemy rozważyć dwie opcje:
