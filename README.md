@@ -1,6 +1,6 @@
-## Światłowód na Cyraneczki
+# Światłowód na Cyraneczki
 
-# Wersja ze światłowodem przechodzącym dachami od domu do domu
+## Wersja ze światłowodem przechodzącym dachami od domu do domu
 - budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
 - zaplanowanie głównego przebiegu światłowodu i połączeń od niego odchodzących
 - posadowienie pierwszego słupa na pierwszej działce Anety i Łukasza
@@ -10,7 +10,7 @@
 1. Zalety: najniższe możliwe koszty, brak ingerencji w drogę i konieczności jej rozkopania, estetyka ulicy niewiele gorsza niż teraz
 2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania
 
-# Wersja ze światłowodem na słupach
+## Wersja ze światłowodem na słupach
 - budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
 - ustalenie ustawienia słupów 
 - zakup i dostarczenie materiałów na teren budowy
@@ -32,7 +32,7 @@ W tej wersji możemy rozważyć dwie opcje:
 
 #### Ważne - główny światłowód wzdłuż ulicy jest na słupach, ale podłączenia indywidualne do poszczególnych domów **można wkopać w ziemię**. Wycena wkopania od słupów do domu wedle indywidualnych ustaleń z DawisIT. No i nie kopiemy w poprzek przez drogę bo zniszczymy nawierzchnię...
 
-# Wersja ze światłowodem wkopanym. **Na tę chwilę DawisIT nie podejmuje się wykonania ze względu na zbyt wysokie koszty**
+## Wersja ze światłowodem wkopanym. **Na tę chwilę DawisIT nie podejmuje się wykonania ze względu na zbyt wysokie koszty**
 1. Zakres prac
 - zaprojektowanie trasy przyłączy z uwzględnieniem istniejącej infrastruktury w ulicy,
 - zakup i dostarczenie materiałów na teren budowy,
