@@ -6,7 +6,7 @@
 - posadowienie pierwszego słupa na pierwszej działce Anety i Łukasza
 - rozciągnięcie światłowodu między pierwszym słupem i kolejnymi domami
 
-### Koszt instalacji dla każdego domu będzie taki jak w ulotce t.j. 399 PLN + 99 PLN za aktywację usługi
+### Koszt instalacji dla każdego domu będzie zbliżony do tego z ulotki t.j. 399 PLN + 99 PLN za aktywację usługi
 1. Zalety: najniższe możliwe koszty, brak ingerencji w drogę i konieczności jej rozkopania, estetyka ulicy niewiele gorsza niż teraz
 2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania
 
