@@ -1,4 +1,38 @@
-# Wersja ze światłowodem wkopanym
+## Światłowód na Cyraneczki
+
+# Wersja ze światłowodem przechodzącym dachami od domu do domu
+- budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
+- zaplanowanie głównego przebiegu światłowodu i połączeń od niego odchodzących
+- posadowienie pierwszego słupa na pierwszej działce Anety i Łukasza
+- rozciągnięcie światłowodu między pierwszym słupem i kolejnymi domami
+
+### Koszt instalacji dla każdego domu będzie taki jak w ulotce t.j. 399 PLN + 99 PLN za aktywację usługi
+1. Zalety: najniższe możliwe koszty, brak ingerencji w drogę i konieczności jej rozkopania, estetyka ulicy niewiele gorsza niż teraz
+2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania
+
+# Wersja ze światłowodem na słupach
+- budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
+- ustalenie ustawienia słupów 
+- zakup i dostarczenie materiałów na teren budowy
+- posadowienie słupów
+- rozciągnięcie światłowodu głównego i przyłączy do domów
+
+### Koszt 1mb - 59 PLN brutto; przy uwzględnieniu długości ulicy (~273m) kwota całkowita ~16000 PLN brutto
+### Przy 10 chętnych to ~1600 PLN/za dom.
+1. Zalety: znacznie niższe koszty, brak ingerencji w drogę i konieczności jej rozkopania, możemy na słupach zainstalować oświetlenie ulicy (!)
+2. Wady: trochę mniejsza estetyka ulicy (ale to też mocno zależy od rodzaju słupów)
+
+W tej wersji możemy rozważyć dwie opcje:
+1. posadowienie słupów na działkach prywatnych 
+- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości ulicy)
+- wady: jeśli działkę na której posadowimy słup odkupi jakiś wariat i wytnie słup to nie będziemy mieli nic do gadania
+2. posadowienie słupów w drodze
+- zalety: instalacja niezależna od "humorów" przyszłych właścicieli działek
+- wady: wymagana zgoda większości czyli 18 mieszkańców; na 08.I.2022 jest nas 16 zainteresowanych osób
+
+#### Ważne - główny światłowód wzdłuż ulicy jest na słupach, ale podłączenia indywidualne do poszczególnych domów **można wkopać w ziemię**. Wycena wkopania od słupów do domu wedle indywidualnych ustaleń z DawisIT. No i nie kopiemy w poprzek przez drogę bo zniszczymy nawierzchnię...
+
+# Wersja ze światłowodem wkopanym. **Na tę chwilę DawisIT nie podejmuje się wykonania ze względu na zbyt wysokie koszty**
 1. Zakres prac
 - zaprojektowanie trasy przyłączy z uwzględnieniem istniejącej infrastruktury w ulicy,
 - zakup i dostarczenie materiałów na teren budowy,
@@ -19,28 +53,8 @@
 1. Zalety: brak słupów, niestraszny nam duży wiatr
 2. Wady: koszty, dewastacja drogi (ponowne utwardzenie nigdy nie będzie idealne)
 
-#### Ważne: światłowód będzie musiał iść po stronie numerów nieparzystych ponieważ musi być jak najdalej instalacji gazowej
+#### Ważne: światłowód wkopany będzie musiał iść po stronie numerów nieparzystych ponieważ musi być jak najdalej instalacji gazowej
 
-# Wersja ze światłowodem na słupach
-- ustalenie ustawienia słupów 
-- zakup i dostarczenie materiałów na teren budowy
-- posadowienie słupów
-- rozciągnięcie światłowodu głównego i przyłączy do domów
-- budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki.
-### Koszt 1mb - 59 PLN brutto; przy uwzględnieniu długości ulicy (~273m) kwota całkowita ~16000 PLN brutto
-### Przy 10 chętnych to ~1600 PLN/za dom.
-1. Zalety: znacznie niższe koszty, brak ingerencji w drogę i konieczności jej rozkopania
-2. Wady: mniejsza estetyka ulicy (ale to też mocno zależy od rodzaju słupów)
-
-#### Ważne - główny światłowód wzdłuż ulicy jest na słupach ale podłączenia indywidualne do poszczególnych domów **można wkopać w ziemię**.
-
-W tej wersji możemy rozważyć dwie opcje:
-1. posadowienie słupów na działkach prywatnych
-- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości)
-- wady: jeśli działkę na której posadowimy słup odkupi jakiś wariat i wytnie słup to nie będziemy mieli nic do gadania
-2. posadowienie słupów w drodze
-- zalety: instalacja niezależna od "humorów" przyszłych właścicieli działek
-- wady: wymagana zgoda większości czyli 18 mieszkańców; na 08.I.2022 jest nas 16 zainteresowanych osób
 # Mapka
 
 ![ulica_geoportal_odleglosc](https://user-images.githubusercontent.com/65955437/211191834-ba17f4cf-bb20-4d46-9068-c2190388a7bb.jpg)
