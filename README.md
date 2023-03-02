@@ -24,7 +24,7 @@
 
 W tej wersji możemy rozważyć dwie opcje:
 1. posadowienie słupów na działkach prywatnych 
-- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości ulicy)
+- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości ulicy). Proponowana lokalizacja słupów w linku: 
 - wady: jeśli działkę na której posadowimy słup odkupi jakiś wariat i wytnie słup to nie będziemy mieli nic do gadania
 2. posadowienie słupów w drodze
 - zalety: instalacja niezależna od "humorów" przyszłych właścicieli działek
