@@ -1,6 +1,6 @@
 # Światłowód na Cyraneczki
 
-## Wersja ze światłowodem przechodzącym dachami od domu do domu
+## 1. Wersja ze światłowodem przechodzącym dachami od domu do domu
 - budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
 - zaplanowanie głównego przebiegu światłowodu i połączeń od niego odchodzących
 - posadowienie pierwszego słupa na pierwszej działce Anety i Łukasza
@@ -10,7 +10,7 @@
 1. Zalety: najniższe możliwe koszty, brak ingerencji w drogę i konieczności jej rozkopania, estetyka ulicy niewiele gorsza niż teraz
 2. Wady: jeśli dom do którego podpięty jest światłowód odkupi jakiś wariat i utnie kabel to nie będziemy mieli nic do gadania; trochę chałupnicze/amatorskie podejście do tematu :-)
 
-## Wersja ze światłowodem na słupach
+## 2. Wersja ze światłowodem na słupach
 - budowa i wyspawanie łącza światłowodowego na odcinku Cedrowa / Cyraneczki
 - ustalenie ustawienia słupów 
 - zakup i dostarczenie materiałów na teren budowy
@@ -19,8 +19,8 @@
 
 ### Koszt 1mb - 59 PLN brutto; przy uwzględnieniu długości ulicy (~273m) kwota całkowita ~16000 PLN brutto
 ### Przy 10 chętnych to ~1600 PLN/za dom.
-1. Zalety: akceptowalne koszty, metoda podłączenia zgodna z przyjętymi standardami, brak ingerencji w drogę i konieczności jej rozkopania, możemy na słupach zainstalować oświetlenie ulicy (!)
-2. Wady: trochę mniejsza estetyka ulicy (ale to też mocno zależy od rodzaju słupów)
+ - zalety: akceptowalne koszty, metoda podłączenia zgodna z przyjętymi standardami, brak ingerencji w drogę i konieczności jej rozkopania, możemy na słupach zainstalować oświetlenie ulicy (!)
+ - wady: trochę mniejsza estetyka ulicy (ale to też mocno zależy od rodzaju słupów)
 
 W tej wersji możemy rozważyć dwie opcje:
 1. posadowienie słupów na działkach prywatnych 
