@@ -58,7 +58,7 @@ W tej wersji możemy rozważyć dwie opcje:
 # Mapki
 Słupy na działkach prywatnych:
 
-![ulica_geoportal_slupy_po_parzystej](https://user-images.githubusercontent.com/65955437/222522534-95a7228b-88b5-4da1-af96-4f68ac684da4.jpg)
+![ulica_geoportal_slupy_po_parzystej](https://user-images.githubusercontent.com/65955437/222526721-45900e20-d085-4796-94a4-f3ee0e4e3614.jpg)
 
 Ogólnopoglądowe:
 
