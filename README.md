@@ -24,13 +24,13 @@
 
 W tej wersji możemy rozważyć dwie opcje:
 1. posadowienie słupów na działkach prywatnych 
-- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości ulicy). Proponowana lokalizacja słupów w linku: 
+- zalety: wymagana zgoda tylko 7 mieszkańców (tyle potrzeba słupów na całej długości ulicy). Proponowana lokalizacja słupów na mapce poniżej.
 - wady: jeśli działkę na której posadowimy słup odkupi jakiś wariat i wytnie słup to nie będziemy mieli nic do gadania
 2. posadowienie słupów w drodze
 - zalety: instalacja niezależna od "humorów" przyszłych właścicieli działek
 - wady: wymagana zgoda większości czyli 18 mieszkańców; na 08.I.2022 jest nas 16 zainteresowanych osób
 
-#### Ważne - główny światłowód wzdłuż ulicy jest na słupach, ale podłączenia indywidualne do poszczególnych domów **można wkopać w ziemię**. Wycena wkopania od słupów do domu wedle indywidualnych ustaleń z DawisIT. No i nie kopiemy w poprzek przez drogę bo zniszczymy nawierzchnię...
+#### Ważne - główny światłowód wzdłuż ulicy jest na słupach, ale podłączenia indywidualne do poszczególnych domów **można wkopać w ziemię**. Wycena wkopania od słupów do domu wedle indywidualnych ustaleń z DawisIT. No i nie kopiemy w poprzek przez drogę bez zagęszczania bo zniszczymy nawierzchnię...
 
 ## Wersja ze światłowodem wkopanym. **Na tę chwilę DawisIT nie podejmuje się wykonania ze względu na zbyt wysokie koszty**
 1. Zakres prac
@@ -55,7 +55,12 @@ W tej wersji możemy rozważyć dwie opcje:
 
 #### Ważne: światłowód wkopany będzie musiał iść po stronie numerów nieparzystych ponieważ musi być jak najdalej instalacji gazowej
 
-# Mapka
+# Mapki
+Słupy na działkach prywatnych:
+
+![ulica_geoportal_slupy_po_parzystej](https://user-images.githubusercontent.com/65955437/222522534-95a7228b-88b5-4da1-af96-4f68ac684da4.jpg)
+
+Ogólnopoglądowe:
 
 ![ulica_geoportal_odleglosc](https://user-images.githubusercontent.com/65955437/211191834-ba17f4cf-bb20-4d46-9068-c2190388a7bb.jpg)
 ![ulica_geoportal_z_instalacjami](https://user-images.githubusercontent.com/65955437/211274588-948bd100-b547-488d-9515-9cb693ee366f.jpg)
